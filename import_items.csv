@@ -1,0 +1,3 @@
+UPC/EAN/ISBN,Item Name,Category,Supplier ID,Cost Price,Unit Price,Tax 1 Name,Tax 1 Percent,Tax 2 Name ,Tax 2 Percent,Reorder Level,Description,Allow Alt Description,Item has Serial Number,custom1,custom2,custom3,custom4,custom5,custom6,custom7,custom8,custom9,custom10,location_id,quantity
+1600001,Muffin,Pasteles,Costco,20,25, , , , ,2,Muffin de chocolate,y,, , , , , , ,, , , , ,20
+1600002,Pastel Chocolate,Pasteles,Costco,20,35,,,,,2,Pastel de chocolate,y,,,,,,,,,,,,,8
